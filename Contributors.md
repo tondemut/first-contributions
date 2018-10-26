@@ -238,6 +238,7 @@ aalbusoiu
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
+- [Tonderai Mutanda](https://github.com/tondemut)
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
